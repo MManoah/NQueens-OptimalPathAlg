@@ -33,7 +33,7 @@ Here is a solution for the 8-Queens problem using the two algorithms
 
 Here would be the board configuration for A*
 
-![](https://i.gyazo.com/63d3a0f7f9f455ee795a420cbcb69e0e.png)
+![](https://i.gyazo.com/b9897a9733b8f3e706c85a92a33a77f0.png)
 
 
 ## Built With
