@@ -1,6 +1,6 @@
 from searchalgs import *
 
-board = NQueensProblem(4)  # A* can solve up to around 15 queens fast
+board = NQueensProblem(8)  # A* can solve up to around 15 queens fast
 a_star = a_star_search(board)
 uniform_cost = uniform_cost_search(board)
 print('A*: ' + str(a_star.solution()))
