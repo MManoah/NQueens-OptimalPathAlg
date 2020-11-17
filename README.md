@@ -8,7 +8,7 @@ The indexes of the list will represent columns on a chessboard (0 -> N-1) while 
 
 ### A*
 
-The A* algorithm uses a combination of heuristic values and the path cost in order to find the optimal solution. This algorithm is significantly faster than Uniform-Cost.
+The A* algorithm uses a combination of heuristic values and the path cost in order to find an optimal solution. This algorithm is significantly faster than Uniform-Cost.
 
 f(n) = g(n) + h(n) where:
 
@@ -18,7 +18,7 @@ h(n) = heuristic (estimated cost to the goal)
 
 ### Uniform-Cost
 
-The Uniform-Cost algorithm uses the path cost in order to find the optimal solution.
+The Uniform-Cost algorithm uses the path cost in order to find an optimal solution.
 
 f(n) = g(n) where:
 
