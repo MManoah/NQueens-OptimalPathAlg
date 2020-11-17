@@ -2,7 +2,7 @@
 
 Finds a solution to a N-Queens problem using either Uniform-Cost search or A* search.
 
-Each column in the list will represent columns on a chessboard while the numbers in each column will represent the row of the queen location in that column. 
+The indexes of the list will represent columns on a chessboard while the numbers in each column will represent the row of the queen location in that column. 
 
 ## The Two Algorithms
 
