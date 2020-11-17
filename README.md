@@ -24,6 +24,7 @@ g(n) = path cost
 ## Example
 
 Here is a solution for the 8-Queens problem using the two algorithms
+
 ![](https://i.gyazo.com/49f476cd5a6d92b654daf419dfd1303f.png)
 
 
