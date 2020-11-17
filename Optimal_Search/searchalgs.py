@@ -1,4 +1,4 @@
-from setup import *
+from Optimal_Search.setup import *
 import heapq
 
 

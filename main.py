@@ -1,4 +1,4 @@
-from searchalgs import *
+from Optimal_Search.searchalgs import *
 
 board = NQueensProblem(8)  # A* can solve up to around 15 queens fast
 a_star = a_star_search(board)
